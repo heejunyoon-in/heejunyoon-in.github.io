@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://heejunyoon.github.io/sitemap.xml
+Sitemap: https://heejunyoon-in.github.io/sitemap.xml
