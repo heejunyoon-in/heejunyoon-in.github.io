@@ -77,10 +77,8 @@ Exploring nature helps me unwind and appreciate the beauty of our world. Below a
   <div class="col">
     {% include figure.liquid path="assets/img/sunchon_back.jpg" title="Suncheonman Wetland" class="img-fluid rounded z-depth-1 " %}
     <p class="text-center">Suncheonman Wetland</p>
-</div>
-<div class="row align-items-center justify-content-center">
   </div>
-  <div class="col">
+    <div class="col">
     {% include figure.liquid path="assets/img/hawaii2.jpg" title="Hawaii" class="img-fluid rounded z-depth-1 " %}
     <p class="text-center">Hawaii</p>
   </div>
