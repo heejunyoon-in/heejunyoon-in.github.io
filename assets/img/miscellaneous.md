@@ -86,4 +86,8 @@ Exploring nature helps me unwind and appreciate the beauty of our world. Below a
     {% include figure.liquid path="assets/img/berkeley.jpg" title="San Francisco" class="img-fluid rounded z-depth-1 " %}
     <p class="text-center">San Francisco</p>
   </div>
+  <div class="col-6">
+    {% include figure.liquid path="assets/img/WashingtonDC.jpg" title="DC" class="img-fluid rounded z-depth-1 " %}
+    <p class="text-center">Washington DC</p>
+  </div>
 </div>
