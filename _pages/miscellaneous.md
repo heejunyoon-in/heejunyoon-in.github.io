@@ -52,7 +52,10 @@ I’m a big fan of volleyball and enjoy watching matches in my free time. I am a
     {% include figure.liquid path="assets/img/proj/volly_5.jpg" title="Image 2" class="img-fluid rounded z-depth-1 " %}
   </div>
   <div class="col-6">
-    {% include figure.liquid path="assets/img/proj/volly_3.jpg" title="Image 3" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/proj/volly_9.jpg" title="Image 3" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-6">
+    {% include figure.liquid path="assets/img/proj/volly_12.jpg" title="Image 4" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
@@ -64,7 +67,7 @@ Exploring nature helps me unwind and appreciate the beauty of our world. Below a
 
 <div class="row align-items-center justify-content-center">
   <div class="col-6">
-    {% include figure.liquid path="assets/img/bostk_ocean.jpg" title="Vladivostok" class="img-fluid rounded z-depth-1 rotate180" %}
+    {% include figure.liquid path="assets/img/bostk_ocean.jpg" title="Vladivostok" class="img-fluid rounded z-depth-1" %}
     <p class="text-center">Vladivostok</p>
   </div>
   <div class="col">
@@ -74,5 +77,15 @@ Exploring nature helps me unwind and appreciate the beauty of our world. Below a
   <div class="col">
     {% include figure.liquid path="assets/img/sunchon_back.jpg" title="Suncheonman Wetland" class="img-fluid rounded z-depth-1 " %}
     <p class="text-center">Suncheonman Wetland</p>
+</div>
+<div class="row align-items-center justify-content-center">
+  </div>
+  <div class="col">
+    {% include figure.liquid path="assets/img/hawaii2.jpg" title="Hawaii" class="img-fluid rounded z-depth-1 " %}
+    <p class="text-center">Hawaii</p>
+  </div>
+  <div class="col-6">
+    {% include figure.liquid path="assets/img/berkeley.jpg" title="San Francisco" class="img-fluid rounded z-depth-1 " %}
+    <p class="text-center">San Francisco</p>
   </div>
 </div>
